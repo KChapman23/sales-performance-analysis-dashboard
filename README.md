@@ -1,6 +1,4 @@
 # business-performance-analysis-dashboard
-Interactive Power BI sales dashboard and Excel data pipeline analysing 1,000 transaction rows for revenue operations optimization.
-
 # Commercial Sales & Logistics Margin Pipeline
 An end-to-end data analytics pipeline tracking the hidden operational profitability leaks caused by a "Free Shipping" policy across a core 10-product portfolio.
 
