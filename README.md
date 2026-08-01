@@ -1,4 +1,4 @@
-# business-performance-analysis-dashboard
+# sales-performance-analysis-dashboard
 # Commercial Sales & Logistics Margin Pipeline
 An end-to-end data analytics pipeline tracking the hidden operational profitability leaks caused by a "Free Shipping" policy across a core 10-product portfolio.
 
