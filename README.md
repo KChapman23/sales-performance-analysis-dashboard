@@ -7,7 +7,7 @@ While top-line revenue may grow, offering free logistics can erode bottom-line m
 
 ## Tech Stack & Workflow
 1. Data Sourcing (Mockaroo): Generated a 1,000-row relational database linking unique Product IDs to specific pricing tiers.
-2. Business Logic Layer (Excel): Automated 26 analytical columns to isolate Gross Profit from Operating Profit using formulae.
+2. Business Logic Layer (Excel, CSV): Automated analytical columns to isolate Gross Profit from Operating Profit using formulae.
 3. Data Modeling & Visualization (Power BI): Designed a model to build a 4-page interactive executive dashboard.
 
 ## Dashboard Architecture
